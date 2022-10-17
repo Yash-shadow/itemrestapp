@@ -1,0 +1,6 @@
+projectKey=itemrestapp
+serverUrl=http://localhost:9000
+serverVersion=8.9.9.56886
+dashboardUrl=http://localhost:9000/dashboard?id=itemrestapp
+ceTaskId=AYPl5KQx1C6Fm7zW-WdX
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPl5KQx1C6Fm7zW-WdX
